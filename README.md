@@ -15,19 +15,19 @@
 <h2>🎭 Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Homelab</b>
-  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
-  - [Cloud Security Home Lab](https://github.com/InfoSecDion/Cloud-Cybersecurity-Homelab/tree/InfoSecDion-patch-1)
+  - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/RashardAP/Building-a-Cybersecurity-Homelab-for-Detection-Monitoring)
+  - [Cloud Security Home Lab](https://github.com/RashardAP/Cloud-Security-Home-Lab)
 
 - <b>Microsoft Azure</b>
-  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
-  - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
-  - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/InfoSecDion/OpenVAS)
+  - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/RashardAP/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
+  - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/RashardAP/How-to-Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
+  - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/RashardAP/Azure-Vulnerability-Management-Lab-OpenVAS-)
 
 
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Active Directory Home Lab](https://github.com/InfoSecDion/Active-Directory-Home-Lab)
-  - [The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management](https://github.com/InfoSecDion/The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management)
-  - [Configuring Active Directory within Azure VMs](https://github.com/InfoSecDion/Configuring-Active-Directory-with-Azure-VM-s)
+  - [Active Directory Home Lab](https://github.com/RashardAP/Active-Directory-Home-Lab)
+  - [The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management](https://github.com/RashardAP/The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management)
+  - [Configuring Active Directory within Azure VMs](https://github.com/RashardAP/Configuring-Active-Directory-within-Azure-VMs)
   
